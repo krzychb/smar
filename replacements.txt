@@ -1,0 +1,3 @@
+some text to replace	a new text to use instead
+this is wrong 	that is better
+nice	very nice
